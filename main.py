@@ -44,5 +44,6 @@ def draw_face(face, start):
 draw_face(face_one, face_one_start)
 draw_face(face_two, face_two_start)
 draw_face(face_three, face_three_start)
+turtle.exitonclick()
 
 
